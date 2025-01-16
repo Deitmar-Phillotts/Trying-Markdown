@@ -1,2 +1,2 @@
-# Trying Mermaid
+# Trying Markdown
  PLaying around with mermaid
