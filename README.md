@@ -1,2 +1,2 @@
 # Trying Markdown
- PLaying around with mermaid
+ PLaying around with markdown
