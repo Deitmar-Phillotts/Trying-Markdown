@@ -13,9 +13,9 @@ I can also make a link to a web page, like this on [YouTube](http://youtube.com)
 >> Guess I have to learn to spell... definitely. Or my tutor will be amazed at mispelling.
 
 I will have to create a checklist too become a spelling Bee Champ;
-1. Go to be early
+1. Go to bed early
 1. Eat my vegetables
-1. Read my Bible everyday
+1. Read my Bible, pray everyday and I''l grow, grow , grow.
 
 This is just the beginning;
 + I will excercise intensely and become strong
