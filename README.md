@@ -21,3 +21,11 @@ This is just the beginning;
 + I will excercise intensely and become strong
 + Drink all my milk and eat my eggs
     + I will be the best
+
+    ```mermaid
+    stateDiagram
+  direction TB
+  Study --> sleep
+  Eat --> Sleep
+  Study --> Eat
+  Sleep --> Study
