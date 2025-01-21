@@ -15,7 +15,7 @@ I can also make a link to a web page, like this on [YouTube](http://youtube.com)
 I will have to create a checklist too become a spelling Bee Champ;
 1. Go to bed early
 1. Eat my vegetables
-1. Read my Bible, pray everyday and I''l grow, grow , grow.
+1. Read my Bible, pray everyday and I'll grow, grow , grow.
 
 This is just the beginning;
 + I will excercise intensely and become strong
@@ -25,7 +25,8 @@ This is just the beginning;
     ```mermaid
     stateDiagram
   direction TB
-  Study --> sleep
+  
   Eat --> Sleep
-  Study --> Eat
   Sleep --> Study
+  Study --> Sleep.
+  Sleep. --> Eat
